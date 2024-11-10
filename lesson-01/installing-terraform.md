@@ -2,7 +2,7 @@
 Welcome to the first lab! 
 In this lab you will install the Terraform CLI on to your system. Follow the step-by-step directions below.
 
-> Remember! For this course I am demonstrating on a Debian Linux virtual machine. 
+
 
 Let's do this!
 
